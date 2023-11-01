@@ -35,8 +35,8 @@ Name of feature: Get data from weather.json
 
 Estimate of time needed to complete: 1h
 
-Start time: 14:45
+Start time: 14:45 31/10/2023
 
-Finish time: **\_**
+Finish time: 14:30 01/11/2023
 
-Actual time needed to complete: **\_**
+Actual time needed to complete: 3h approx.
